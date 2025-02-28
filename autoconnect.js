@@ -8,7 +8,7 @@ Linkedin = {
     totalRequestsSent: 0,
     // set to false to skip adding note in invites
     addNote: true,
-    note: "Hi {{name}}, I'd like to connect with you to explore a career opportunity!",
+    note: "Hi, this is {your name}. I'd like to connect with you to explore an opportunity with your company. I'm a {graduate specialisation} with experience in Software Development, Data Science, ML and Automation. Please accept my request for more info. I am not able to share due to the message limit.",
   },
   init: function (data, config) {
     console.info("INFO: script initialized on the page...");
